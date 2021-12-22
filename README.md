@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rutuja-Kelkar
-- 👀 I’m interested in proudct design and develpopment 
+- 👀 I’m interested in proudct design and development 
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on killer start ups and projects  
 - 📫 How to reach me https://www.rutujakelkar.com/
