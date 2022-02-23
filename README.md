@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rutuja-Kelkar
-- 👀 I’m interested in proudct design / UI UX
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on killer start ups and projects  
+- 👀 I’m interested in Product management
+- 🌱 I love building stuff lightning fast
+- 💞️ I’m looking to collaborate with killer start ups, companies, projects to solve high quality challenging problems
 - 📫 How to reach me https://www.rutujakelkar.com/
 
 <!---
