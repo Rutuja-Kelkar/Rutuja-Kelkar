@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rutuja-Kelkar
-- 👀 I’m interested in Product management
+- 👀 I’m interested in Product management, Product design, frontend, marketing & sales in the order written.
 - 🌱 I love building stuff lightning fast
 - 💞️ I’m looking to collaborate with killer start ups, companies, projects to solve high quality challenging problems
 - 📫 How to reach me https://www.rutujakelkar.com/
