@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rutuja-Kelkar
+- 👋 Hi, My name is @Rutuja-Kelkar
 - 👀 I’m into Marketing automation and analytics | data engineering | product design
 - 🌱 I love building stuff lightning fast
 - 💞️ I enjoy collaborating with killer start ups, companies, projects to solve high quality challenging problems
