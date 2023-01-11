@@ -1,5 +1,5 @@
 - 👋 Hi, My name is @Rutuja-Kelkar
-- 👀 I’m into Marketing automation and analytics | data engineering | product design
+- 👀 I’m into fontend | product design - UI UX
 - 🌱 I love building stuff lightning fast
 - 💞️ I enjoy collaborating with killer start ups, companies, projects to solve high quality challenging problems
 - 📫 How to reach me https://www.rutujakelkar.com/
