@@ -1,5 +1,5 @@
 - 👋 Hi, My name is @Rutuja-Kelkar
-- 👀 I’m into fontend | product design - UI UX
+- 👀 I’m a fontend developer and UI UX designer
 - 🌱 I love building stuff lightning fast
 - 💞️ I enjoy collaborating with killer start ups, companies, projects to solve high quality challenging problems
 - 📫 How to reach me https://www.rutujakelkar.com/
